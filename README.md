@@ -96,3 +96,5 @@ MSA-2.0 (2019), accessed: 2019-01-20.
 html, accessed: 2022-05-03.
 5    P. L. Houston, C. Qu, A. Nandi, R. Conte, Q. Yu, and J. M.
 Bowman, J. Chem. Phys. 156, 044120 (2022).
+
+Download Main.zip, Data1.zip, Data2.zip, and Results.zip, extract them and follow the instructions in ReadMeInstructions.txt (located in Main.zip)
