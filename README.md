@@ -87,14 +87,11 @@ needed, some instruction as to how to install them, and
 a Mathematica notebook file called TemplatesAndExamplesVXX.x.nb notebook, where XX.x is the version number. This notebook provides templates for a variety of
 tasks. The current version provides 14 examples, each
 with a filled-in template, the printed output, andthe resulting Fortran file. The examples cover all of the methods described above.
-1   “Original msa software,” https://www.mcs.anl.gov/research/
-projects/msa/ (2019), accessed: 2019-12-20.
-2   Z. Xie and J. M. Bowman, J. Chem. Theory Comput. 6, 26 (2010).
-3   “Msa software with gradients,” https://github.com/szquchen/
+
+1   Z. Xie and J. M. Bowman, J. Chem. Theory Comput. 6, 26 (2010).
+2   “Msa software with gradients,” https://github.com/szquchen/
 MSA-2.0 (2019), accessed: 2019-01-20.
-4   “Qtdesigner,” https://doc.qt.io/qt-5/qtdesigner-manual.
-html, accessed: 2022-05-03.
-5    P. L. Houston, C. Qu, A. Nandi, R. Conte, Q. Yu, and J. M.
+3    P. L. Houston, C. Qu, A. Nandi, R. Conte, Q. Yu, and J. M.
 Bowman, J. Chem. Phys. 156, 044120 (2022).
 
 Download Main.zip, Data1.zip, Data2.zip, and Results.zip, extract them and follow the instructions in ReadMeInstructions.txt (located in Main.zip)
